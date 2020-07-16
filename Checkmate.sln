@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkmate.Model", "Checkmate.Model\Checkmate.Model.csproj", "{FAC1B91A-EF21-42D3-80AF-3ACF12E93AD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkmate.Data", "Checkmate.Data\Checkmate.Data.csproj", "{DC33FAEA-7951-447D-B913-5B904CDF8368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkmate.Business", "Checkmate.Business\Checkmate.Business.csproj", "{9D083DEE-2BBF-4EFC-8788-D2CC5EF2B562}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkmate.Mvc", "Checkmate.Mvc\Checkmate.Mvc.csproj", "{C824EACB-9E1C-48B3-B8D5-E9DBDF9722A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkmate.AppCreator", "Checkmate.AppCreator\Checkmate.AppCreator.csproj", "{BE6C61F0-3449-478D-9E92-990C70FD5CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkmate.EF", "Checkmate.EF\Checkmate.EF.csproj", "{874ADF3E-C228-4409-B29A-45BF5E688928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC1B91A-EF21-42D3-80AF-3ACF12E93AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC1B91A-EF21-42D3-80AF-3ACF12E93AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC1B91A-EF21-42D3-80AF-3ACF12E93AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC1B91A-EF21-42D3-80AF-3ACF12E93AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC33FAEA-7951-447D-B913-5B904CDF8368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC33FAEA-7951-447D-B913-5B904CDF8368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC33FAEA-7951-447D-B913-5B904CDF8368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC33FAEA-7951-447D-B913-5B904CDF8368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D083DEE-2BBF-4EFC-8788-D2CC5EF2B562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D083DEE-2BBF-4EFC-8788-D2CC5EF2B562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D083DEE-2BBF-4EFC-8788-D2CC5EF2B562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D083DEE-2BBF-4EFC-8788-D2CC5EF2B562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C824EACB-9E1C-48B3-B8D5-E9DBDF9722A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C824EACB-9E1C-48B3-B8D5-E9DBDF9722A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C824EACB-9E1C-48B3-B8D5-E9DBDF9722A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C824EACB-9E1C-48B3-B8D5-E9DBDF9722A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6C61F0-3449-478D-9E92-990C70FD5CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6C61F0-3449-478D-9E92-990C70FD5CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6C61F0-3449-478D-9E92-990C70FD5CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6C61F0-3449-478D-9E92-990C70FD5CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874ADF3E-C228-4409-B29A-45BF5E688928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874ADF3E-C228-4409-B29A-45BF5E688928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874ADF3E-C228-4409-B29A-45BF5E688928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874ADF3E-C228-4409-B29A-45BF5E688928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC19BE1-BF39-4D13-AC3D-35204746D65E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Data.deps.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Data.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.AssemblyInfoInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.AssemblyInfo.cs
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.csprojAssemblyReference.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Data.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Model.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Model.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.csproj.CopyComplete
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Data.runtimeconfig.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.Data.runtimeconfig.dev.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.genruntimeconfig.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\obj\Debug\netcoreapp3.1\Checkmate.Data.csproj.CoreCompileInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Data\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.pdb

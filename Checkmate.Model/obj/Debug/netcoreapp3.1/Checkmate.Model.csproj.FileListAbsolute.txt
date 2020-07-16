@@ -1,0 +1,9 @@
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\bin\Debug\netcoreapp3.1\Checkmate.Model.deps.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\bin\Debug\netcoreapp3.1\Checkmate.Model.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\bin\Debug\netcoreapp3.1\Checkmate.Model.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.AssemblyInfoInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.AssemblyInfo.cs
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.csprojAssemblyReference.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Model\obj\Debug\netcoreapp3.1\Checkmate.Model.csproj.CoreCompileInputs.cache

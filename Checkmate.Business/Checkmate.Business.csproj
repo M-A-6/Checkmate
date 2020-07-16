@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="EmployeeService.cs" />
+    <Compile Remove="IEmployeeService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Checkmate.Data\Checkmate.Data.csproj" />
+    <ProjectReference Include="..\Checkmate.Model\Checkmate.Model.csproj" />
+  </ItemGroup>
+
+</Project>

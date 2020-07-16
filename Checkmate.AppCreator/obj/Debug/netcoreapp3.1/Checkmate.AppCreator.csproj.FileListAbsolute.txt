@@ -1,0 +1,12 @@
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.deps.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.AssemblyInfoInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.AssemblyInfo.cs
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.csproj.CoreCompileInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\bin\Debug\netcoreapp3.1\Checkmate.Model.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\bin\Debug\netcoreapp3.1\Checkmate.Model.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.csprojAssemblyReference.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.AppCreator\obj\Debug\netcoreapp3.1\Checkmate.AppCreator.csproj.CopyComplete

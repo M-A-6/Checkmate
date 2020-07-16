@@ -1,0 +1,16 @@
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.csprojAssemblyReference.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.AssemblyInfoInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.AssemblyInfo.cs
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Business.deps.json
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Business.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Business.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Data.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Model.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Data.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.Model.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.csproj.CopyComplete
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\obj\Debug\netcoreapp3.1\Checkmate.Business.csproj.CoreCompileInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.Business\bin\Debug\netcoreapp3.1\Checkmate.AppCreator.pdb

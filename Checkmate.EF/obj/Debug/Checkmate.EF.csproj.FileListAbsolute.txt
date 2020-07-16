@@ -1,0 +1,12 @@
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\Checkmate.EF.exe.config
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\Checkmate.EF.exe
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\Checkmate.EF.pdb
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\EntityFramework.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\EntityFramework.xml
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\obj\Debug\Checkmate.EF.csprojAssemblyReference.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\obj\Debug\Checkmate.EF.csproj.CoreCompileInputs.cache
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\obj\Debug\Checkmate.EF.csproj.CopyComplete
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\obj\Debug\Checkmate.EF.exe
+E:\Projects\GridMVC\Checkmate\Checkmate\Checkmate.EF\obj\Debug\Checkmate.EF.pdb
