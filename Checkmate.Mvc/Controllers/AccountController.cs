@@ -121,8 +121,9 @@ namespace Checkmate.Mvc.Controllers
 
         [HttpGet]
         [AllowAnonymous]
-        public IActionResult ResetPassword()
-        {           
+        public IActionResult ResetPassword(string id)
+        {
+            ViewBag.UserId = id;           
             return View();
         }
         

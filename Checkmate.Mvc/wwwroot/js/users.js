@@ -26,8 +26,13 @@
                 render: function (data) {
                     return "<a href='#' class='btn btn-danger' onclick='ConfirmDelete(\`" + data + "\`)' > <i class='material-icons' style='font-size: 24px;'>delete</i></a >";
                 }
-            }  
-
+            },  
+            {
+                data: "id",
+                render: function (data) {
+                    return "<a class='btn btn-danger' href='/Account/ResetPassword/" + data + "'><i class='material-icons' style='font-size: 24px;'>security</i></a>";
+                }
+            }
         ],
         "paging": true,
         "searching": true,
@@ -50,6 +55,12 @@
             "className": "text-center",
            "searchable": false,
           "orderable": false
+        },
+        {
+            "targets": 5,
+            "className": "text-center",
+            "searchable": false,
+            "orderable": false
         }
         ],
         "order": [[1, 'asc']]
@@ -63,6 +74,10 @@
     //}).draw();
 
 });           
+
+function ResetPasswrod(recordId) {
+    alert(recordId);
+}
 
 function ConfirmDelete(recordId) {
     $("#deleteId").val(recordId);
