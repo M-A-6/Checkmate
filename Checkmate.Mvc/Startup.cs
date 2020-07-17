@@ -134,7 +134,7 @@ namespace Checkmate.Mvc
                 endpoints.MapRazorPages();
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{lan=en}/{controller=Account}/{action=Login}/{id?}");
+                    pattern: "{controller=Account}/{action=Login}/{id?}");
             });
 
 

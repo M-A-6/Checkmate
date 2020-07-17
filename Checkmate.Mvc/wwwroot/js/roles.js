@@ -6,6 +6,12 @@
         },
         columns: [
             {
+                "data": "id",
+                render: function (data, type, row, meta) {
+                    return  meta.row + meta.settings._iDisplayStart + 1 ;
+                }
+            },
+            {
                 data: "id",
                 render: function (data) {
                     return "<a class='btn btn-primary' href='/Administration/EditRole/" + data + "'><i class='material-icons' style='font-size: 24px;'>edit</i></a>";
@@ -21,7 +27,30 @@
             }             
         ],
         "paging": true,
-        "searching": true        
+        "searching": true,    
+        "columnDefs": [{
+            "targets": 0,
+            "className": "columnCenterbold"
+        },
+        {
+            "targets": 1,
+            "className": "text-center",
+            "searchable": false,
+            "orderable": false
+        },
+        {
+            "targets": 2,
+            "visible": false
+        },
+        {
+            "targets": 4,
+            "className": "text-center",
+            "searchable": false,
+            "orderable": false
+        }
+        ],
+        "order": [[1, 'asc']]
+
     });
 
 });           
